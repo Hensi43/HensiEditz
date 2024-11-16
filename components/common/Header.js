@@ -19,7 +19,7 @@ const Header = () => {
         <div className="container">
           <div className="logo">
             <Link href="/">
-              <TitleLogo title="itDone" caption="moef" className="logomin" />
+              <TitleLogo title="itDone" caption="modef" className="logomin" />
             </Link>
           </div>
           <nav
