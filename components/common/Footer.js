@@ -21,7 +21,7 @@ const Footer = () => {
               </span>
 
               <br />
-              <h3>+91 7985179107</h3>
+              <h3>+91 8454968447</h3>
               <h3>+91 7897664959</h3>
               <br />
               <a href="https://forms.gle/ojSiNAXpE5HwNQwY9">
