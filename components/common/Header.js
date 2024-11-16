@@ -19,7 +19,7 @@ const Header = () => {
         <div className="container">
           <div className="logo">
             <Link href="/">
-              <TitleLogo title="itDone" caption="Get" className="logomin" />
+              <TitleLogo title="itDone" caption="move" className="logomin" />
             </Link>
           </div>
           <nav
